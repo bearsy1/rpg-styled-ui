@@ -34,6 +34,6 @@
       "path": "lang/fr.json"
     }
   ],
-  "manifest": "https://raw.githubusercontent.com/Xbozon/rpg-styled-ui/main/module.json",
+  "manifest": "https://github.com/bearsy1/rpg-styled-ui/blob/main/module.json",
   "download": "https://github.com/Xbozon/rpg-styled-ui/archive/refs/tags/v1.0.5.zip",
 }

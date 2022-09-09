@@ -11,6 +11,7 @@
     --whisper-color: #bd33a4;
 }
 
+/*
 #pause img[src*="icons/svg/clockwork.svg"]{
     box-sizing: border-box;
     width: 128px;
@@ -20,6 +21,7 @@
     background-image: url("../ui/other/paused.webp");
     animation: rotation 20s infinite linear;
 }
+*/
 
 #logo {
     left: 22px;

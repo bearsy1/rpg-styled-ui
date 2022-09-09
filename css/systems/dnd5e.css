@@ -16,15 +16,15 @@
 
 #chat-log .chat-message.message .message-header .flavor-text {
     font-weight: 100;
-    color: #e4a8c4;
+    color: #a7a7a7;
 }
 
 #chat-log .chat-message .message-content .card-header .item-name {
-    color: #ffae47;
+    color: #d2cbba;
 }
 
 #chat-log .chat-message .message-content .entry-title-inner {
-    color: #ffece4;
+    color: #dcdcdc;
 }
 
 #chat-log .chat-message .message-content .dice-result .dice-total {
@@ -33,21 +33,21 @@
 }
 
 .dice-roll .dice-result .dice-formula {
-    color: #c2c2c2;
+    color: #a7a7a7;
 }
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.critical {
-    background-color: #e7e5c8;
+    background-color: #dddccc;
     color: #00ad43;
 }
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.fumble {
-    background-color: #cf8f8f;
+    background-color: #dcc1c1;
     color: #b41800;
 }
 
 .dnd5e.chat-card .card-footer {
-    color: #c089a3;
+    color: #cdc5c9;
 }
 
 .dnd5e.chat-card .card-footer {

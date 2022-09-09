@@ -85,7 +85,7 @@ Hooks.on('getSceneNavigationContext', () => {
 });
 
 Hooks.on("renderPause", function () {
-    $(".paused img").attr("src", "../ui/other/paused.webp");
+    $(".paused img").attr("src", "https://github.com/bearsy1/rpg-styled-ui/blob/main/ui/other/paused.webp");
 });
 
 Hooks.on('renderCombatCarousel', () => {

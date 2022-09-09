@@ -10,7 +10,7 @@
     --border-color: #372d25;
 }
 
-#pause img.fa-spin[src*="icons/svg/clockwork.svg"]{
+#pause img[src*="icons/svg/clockwork.svg"]{
     box-sizing: border-box;
     width: 128px;
     height: 128px;

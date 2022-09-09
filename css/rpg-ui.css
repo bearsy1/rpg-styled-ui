@@ -210,10 +210,6 @@ body.compact-mode #logo {
     filter: brightness(0.8);
 }
 
-#chat-log .message.whisper {
-    color: var(--whisper-color);
-}
-
 #chat-log .message.blind::before {
     filter: brightness(0.8) hue-rotate(180deg);
 }
@@ -226,6 +222,10 @@ body.compact-mode #logo {
 
 .chat-message .message-content {
     color: var(--main-text-light-color) !important; /*8e8073*/
+}
+
+#chat-log .message.whisper {
+    color: var(--whisper-color);
 }
 
 .chat-message .table-draw .table-description {

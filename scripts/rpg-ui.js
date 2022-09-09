@@ -84,6 +84,10 @@ Hooks.on('getSceneNavigationContext', () => {
 	}
 });
 
+Hooks.on("renderPause", function () {
+    $(".paused img").attr("src", "../ui/other/paused.webp");
+});
+
 Hooks.on('renderCombatCarousel', () => {
 	let carouselSize = game.settings.get('combat-carousel', 'carouselSize')
 	if (carouselSize !== "") {

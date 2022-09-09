@@ -5,7 +5,7 @@
 @import "systems/dnd5e.css";
 
 :root {
-    --main-text-light-color: #cac6af;
+    --main-text-light-color: #e2dcc9;
     --main-text-very-light-color: #f7f0e3; 
     --border-color: #372d25;
     --whisper-color: #bd33a4;
@@ -201,19 +201,19 @@ body.compact-mode #logo {
     top: -15%;
     z-index: -1;
 
-    filter: brightness(2.5);
+    filter: brightness(1.7);
 }
 
 #chat-log .message.whisper::before {
-    filter: brightness(1.0);
+    filter: brightness(0.8);
 }
 
-#chat-log .chat-message .message .flexcol .whisper {
+#chat-log .message.whisper {
     color: var(--whisper-color);
 }
 
 #chat-log .message.blind::before {
-    filter: brightness(1.0) hue-rotate(180deg);
+    filter: brightness(0.8) hue-rotate(180deg);
 }
 
 #chat-log .message .message-header {

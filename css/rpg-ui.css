@@ -215,13 +215,13 @@ body.compact-mode #logo {
 }
 
 #chat-log .message .message-header {
-    color: var(--main-text-light-color) !important; /*92887f*/
+    color: var(--main-text-light-color); /*92887f*/
     font-size: 16px;
     font-weight: 600;
 }
 
 .chat-message .message-content {
-    color: var(--main-text-light-color) !important; /*8e8073*/
+    color: var(--main-text-light-color); /*8e8073*/
 }
 
 #chat-log .message.whisper {

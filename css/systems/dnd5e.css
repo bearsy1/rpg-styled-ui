@@ -14,7 +14,10 @@
 }
 
 #chat-log .chat-message.message .message-header .message-sender{
-    text-shadow: 0px 0px 2px #000000;
+    text-shadow: 1px 1px 4px #000000;
+    -webkit-text-stroke: 0.6px #000;
+    font-size: 16px;
+    font-weight: bold;
 }
 
 #chat-log .chat-message.message .message-header .flavor-text {
@@ -115,7 +118,7 @@
     box-shadow: none;
 }
 
-.table {
+.message-content table {
     background: (0,0,0,0.25);
 }
 

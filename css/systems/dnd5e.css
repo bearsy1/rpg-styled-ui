@@ -13,9 +13,6 @@
     bottom: 8px;
 }
 
-#chat-log .chat-message.whisper .message-content {
-	color: #bd33a4;
-}
 
 #chat-log .chat-message.message .message-header .flavor-text {
     font-weight: 100;

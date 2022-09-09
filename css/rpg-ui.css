@@ -11,18 +11,6 @@
     --whisper-color: #bd33a4;
 }
 
-/*
-#pause img[src*="icons/svg/clockwork.svg"]{
-    box-sizing: border-box;
-    width: 128px;
-    height: 128px;
-    padding-left: 128px;
-
-    background-image: url("../ui/other/paused.webp");
-    animation: rotation 20s infinite linear;
-}
-*/
-
 #logo {
     left: 22px;
 }
@@ -61,7 +49,6 @@ body.compact-mode #logo {
     left: -10%;
 }
 
-
 #sidebar {
     display: flex;
     flex-direction: column;
@@ -80,7 +67,6 @@ body.compact-mode #logo {
 #sidebar.app.collapsed {
     padding: 0 !important;
 }
-
 
 #sidebar.app.collapsed::before {
     width: 40px !important;

@@ -37,12 +37,12 @@
 }
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.critical {
-    background-color: #dddccc;
+    background-color: rgba(221,220,204,0.5);
     color: #00ad43;
 }
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.fumble {
-    background-color: #dcc1c1;
+    background-color: rgba(213,173,173,0.5);
     color: #b41800;
 }
 

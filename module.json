@@ -5,8 +5,8 @@
   "description": "Theme for DnD5e.",
   "author": "Xbozon",
   "authors": [],
-  "url": "https://github.com/Xbozon/rpg-styled-ui",
-  "version": "v1.0.5.1",
+  "url": "https://github.com/bearsy1/rpg-styled-ui",
+  "version": "v1.0.5.2",
   "compatibility": {
     "minimum": "10",
     "verified": "10.284",
@@ -34,6 +34,6 @@
       "path": "lang/fr.json"
     }
   ],
-  "manifest": "https://github.com/bearsy1/rpg-styled-ui/releases/download/1.0.5.1/module.json",
-  "download": "https://github.com/bearsy1/rpg-styled-ui/releases/download/1.0.5.1/rpg-styled-ui.zip",
+  "manifest": "https://github.com/bearsy1/rpg-styled-ui/releases/download/1.0.5.2/module.json",
+  "download": "https://github.com/bearsy1/rpg-styled-ui/releases/download/1.0.5.2/rpg-styled-ui.zip",
 }

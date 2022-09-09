@@ -38,12 +38,12 @@
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.critical {
     background-color: rgba(221,220,204,0.5);
-    color: #00ad43;
+    color: #00762d;
 }
 
 #chat-log .chat-message .message-content .dice-roll .dice-result .dice-total.fumble {
     background-color: rgba(213,173,173,0.5);
-    color: #b41800;
+    color: #e01e00;
 }
 
 .dnd5e.chat-card .card-footer {

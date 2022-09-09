@@ -224,7 +224,7 @@ body.compact-mode #logo {
     color: var(--main-text-light-color); /*8e8073*/
 }
 
-#chat-log .message.whisper {
+#chat-log .message.whisper .message-content {
     color: var(--whisper-color);
 }
 

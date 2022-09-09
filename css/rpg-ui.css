@@ -622,6 +622,14 @@ body.compact-mode #logo {
     background: #ffffff14;
 }
 
+.dice-calculator__text-input {
+    background: #e5decb;
+}
+
+.dialog-content .textarea {
+    background: #e5decb;
+}
+
 /* ACTOR AND ITEM */
 button#roll-hd {
     position: relative;

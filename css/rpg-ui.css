@@ -490,7 +490,7 @@ body.compact-mode #logo {
 
 .app.window-app.dialog,
 .app.window-app.folder-edit {
-    background: rgba(6, 4, 3, 0.92);
+    /*background: rgba(6, 4, 3, 0.92);*/
     border-image-source: url(../ui/frames/input_border.webp);
     border-image-slice: 5 20 20 20 fill;
     border-image-repeat: repeat repeat;
@@ -501,7 +501,7 @@ body.compact-mode #logo {
 
 .window-app.dialog .window-content,
 .window-app.folder-edit .window-content {
-    color: #8f8a80;
+    color: #e8e3d6;     /*#8f8a80*/
     background: none;
 }
 
